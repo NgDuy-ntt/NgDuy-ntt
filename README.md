@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Nguyen Khanh Duy
-- I'm studying NTTU
