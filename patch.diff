@@ -1,0 +1,7 @@
+diff --git a/hello b/hello
+index e69de29..ea2d387 100644
+--- a/hello
++++ b/hello
+@@ -0,0 +1 @@
++hello demo 
+\ No newline at end of file
