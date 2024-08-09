@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Nguyen Khanh Duy
+Đây là project game X
